@@ -13,8 +13,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=alecorgit&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alecorgit&icon=5&color=12)](https://visitcount.itsvg.in)
@@ -27,5 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 --->
